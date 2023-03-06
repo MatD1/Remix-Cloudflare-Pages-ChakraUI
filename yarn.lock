@@ -1053,6 +1053,94 @@
     escape-string-regexp "^4.0.0"
     rollup-plugin-node-polyfills "^0.2.1"
 
+"@esbuild/android-arm64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/android-arm64/-/android-arm64-0.16.3.tgz#6af6d16be6d534d776a51fc215bfd81a68906d2c"
+
+"@esbuild/android-arm@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/android-arm/-/android-arm-0.16.3.tgz#2a091222f3b1928e3246fb3c5202eaca88baab67"
+
+"@esbuild/android-x64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/android-x64/-/android-x64-0.16.3.tgz#a6d749c58b022d371dc40d50ac1bb4aebd1eb953"
+
+"@esbuild/darwin-arm64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/darwin-arm64/-/darwin-arm64-0.16.3.tgz#92d1826ed2f21dcac5830b70d7215c6afbb744e2"
+
+"@esbuild/darwin-x64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/darwin-x64/-/darwin-x64-0.16.3.tgz#7fc3570c2b16e9ff4fc178593a0a4adb1ae8ea57"
+
+"@esbuild/freebsd-arm64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/freebsd-arm64/-/freebsd-arm64-0.16.3.tgz#16735ce16f8c9a4e7289e9e259aa01a8d9874307"
+
+"@esbuild/freebsd-x64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/freebsd-x64/-/freebsd-x64-0.16.3.tgz#f4edd1464cb072799ed6b8ab5178478e71c13459"
+
+"@esbuild/linux-arm64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/linux-arm64/-/linux-arm64-0.16.3.tgz#4b7ae6fe3618d9a40d6ca39c6edc991ac1447203"
+
+"@esbuild/linux-arm@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/linux-arm/-/linux-arm-0.16.3.tgz#4b3e9f849822e16a76a70844c4db68075b259a58"
+
+"@esbuild/linux-ia32@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/linux-ia32/-/linux-ia32-0.16.3.tgz#2ff3936b91bfff62f9ecf7f6411ef399b29ed22d"
+
+"@esbuild/linux-loong64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.16.3.tgz#ff8aa59f49d9ccbc1ff952ba1f5cd01a534562df"
+
+"@esbuild/linux-mips64el@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/linux-mips64el/-/linux-mips64el-0.16.3.tgz#5dd5e118071c3912df69beedbfd11fb117f0fe5e"
+
+"@esbuild/linux-ppc64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/linux-ppc64/-/linux-ppc64-0.16.3.tgz#36c62e24eae7fa3f0d921506da8fc1e6098a1364"
+
+"@esbuild/linux-riscv64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/linux-riscv64/-/linux-riscv64-0.16.3.tgz#f0fec8e7affb5bcc817fefc61a21cbb95539e393"
+
+"@esbuild/linux-s390x@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/linux-s390x/-/linux-s390x-0.16.3.tgz#22e10edd6e91f53c2e1f60e46abd453d7794409b"
+
+"@esbuild/linux-x64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/linux-x64/-/linux-x64-0.16.3.tgz#38388b73fd9eebe45b073d7d8099b9c2e54f7139"
+
+"@esbuild/netbsd-x64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/netbsd-x64/-/netbsd-x64-0.16.3.tgz#e0270569567f1530b8dbe6d11d5b4930b9cc71ae"
+
+"@esbuild/openbsd-x64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/openbsd-x64/-/openbsd-x64-0.16.3.tgz#3b16642d443848bca605f33ee3978a1890911e6d"
+
+"@esbuild/sunos-x64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/sunos-x64/-/sunos-x64-0.16.3.tgz#a838f247867380f0ae25ce1936dc5ab6f57b7734"
+
+"@esbuild/win32-arm64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/win32-arm64/-/win32-arm64-0.16.3.tgz#bedd9bef5fb41f89ce2599f1761973cf6d6a67b6"
+
+"@esbuild/win32-ia32@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/win32-ia32/-/win32-ia32-0.16.3.tgz#49800aa812d8cc35ceef61e8d3b01224684cc0b1"
+
+"@esbuild/win32-x64@0.16.3":
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.16.3.tgz#94047dae921949cfb308117d993c4b941291ae10"
+
 "@eslint/eslintrc@^1.3.0":
   version "1.3.0"
   resolved "https://registry.npmjs.org/@eslint/eslintrc/-/eslintrc-1.3.0.tgz"
@@ -1125,151 +1213,151 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@miniflare/cache@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/cache/-/cache-2.11.0.tgz"
+"@miniflare/cache@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/cache/-/cache-2.12.1.tgz#dbbd0e93282bc32df917161130178262ec7350b3"
   dependencies:
-    "@miniflare/core" "2.11.0"
-    "@miniflare/shared" "2.11.0"
+    "@miniflare/core" "2.12.1"
+    "@miniflare/shared" "2.12.1"
     http-cache-semantics "^4.1.0"
-    undici "5.9.1"
+    undici "5.20.0"
 
-"@miniflare/cli-parser@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/cli-parser/-/cli-parser-2.11.0.tgz"
+"@miniflare/cli-parser@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/cli-parser/-/cli-parser-2.12.1.tgz#c73d027ca01822511003b7e2b3caabe14282411c"
   dependencies:
-    "@miniflare/shared" "2.11.0"
+    "@miniflare/shared" "2.12.1"
     kleur "^4.1.4"
 
-"@miniflare/core@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/core/-/core-2.11.0.tgz"
+"@miniflare/core@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/core/-/core-2.12.1.tgz#8fecd897c1e5b32af6a7a288bfbf407b233ebb61"
   dependencies:
     "@iarna/toml" "^2.2.5"
-    "@miniflare/queues" "2.11.0"
-    "@miniflare/shared" "2.11.0"
-    "@miniflare/watcher" "2.11.0"
+    "@miniflare/queues" "2.12.1"
+    "@miniflare/shared" "2.12.1"
+    "@miniflare/watcher" "2.12.1"
     busboy "^1.6.0"
     dotenv "^10.0.0"
     kleur "^4.1.4"
     set-cookie-parser "^2.4.8"
-    undici "5.9.1"
+    undici "5.20.0"
     urlpattern-polyfill "^4.0.3"
 
-"@miniflare/d1@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/d1/-/d1-2.11.0.tgz"
+"@miniflare/d1@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/d1/-/d1-2.12.1.tgz#2a65b540d4b2834ddc6b0603425627841803081d"
   dependencies:
-    "@miniflare/core" "2.11.0"
-    "@miniflare/shared" "2.11.0"
+    "@miniflare/core" "2.12.1"
+    "@miniflare/shared" "2.12.1"
 
-"@miniflare/durable-objects@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/durable-objects/-/durable-objects-2.11.0.tgz"
+"@miniflare/durable-objects@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/durable-objects/-/durable-objects-2.12.1.tgz#8aa6416593db23dec0c493b2a3a6c81711163034"
   dependencies:
-    "@miniflare/core" "2.11.0"
-    "@miniflare/shared" "2.11.0"
-    "@miniflare/storage-memory" "2.11.0"
-    undici "5.9.1"
+    "@miniflare/core" "2.12.1"
+    "@miniflare/shared" "2.12.1"
+    "@miniflare/storage-memory" "2.12.1"
+    undici "5.20.0"
 
-"@miniflare/html-rewriter@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/html-rewriter/-/html-rewriter-2.11.0.tgz"
+"@miniflare/html-rewriter@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/html-rewriter/-/html-rewriter-2.12.1.tgz#dff885c14c590c6e0b8a438054de1ab2f05daa85"
   dependencies:
-    "@miniflare/core" "2.11.0"
-    "@miniflare/shared" "2.11.0"
+    "@miniflare/core" "2.12.1"
+    "@miniflare/shared" "2.12.1"
     html-rewriter-wasm "^0.4.1"
-    undici "5.9.1"
+    undici "5.20.0"
 
-"@miniflare/http-server@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/http-server/-/http-server-2.11.0.tgz"
+"@miniflare/http-server@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/http-server/-/http-server-2.12.1.tgz#88bd62798d01459771d1b595cdc20811c3df00dc"
   dependencies:
-    "@miniflare/core" "2.11.0"
-    "@miniflare/shared" "2.11.0"
-    "@miniflare/web-sockets" "2.11.0"
+    "@miniflare/core" "2.12.1"
+    "@miniflare/shared" "2.12.1"
+    "@miniflare/web-sockets" "2.12.1"
     kleur "^4.1.4"
     selfsigned "^2.0.0"
-    undici "5.9.1"
+    undici "5.20.0"
     ws "^8.2.2"
     youch "^2.2.2"
 
-"@miniflare/kv@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/kv/-/kv-2.11.0.tgz"
+"@miniflare/kv@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/kv/-/kv-2.12.1.tgz#51e28ac5e478323bc482bf3d20e33de37b061f07"
   dependencies:
-    "@miniflare/shared" "2.11.0"
+    "@miniflare/shared" "2.12.1"
 
-"@miniflare/queues@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/queues/-/queues-2.11.0.tgz"
+"@miniflare/queues@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/queues/-/queues-2.12.1.tgz#b78ef4e4e1db6d3f4c1069f9de08ad1d2d90c713"
   dependencies:
-    "@miniflare/shared" "2.11.0"
+    "@miniflare/shared" "2.12.1"
 
-"@miniflare/r2@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/r2/-/r2-2.11.0.tgz"
+"@miniflare/r2@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/r2/-/r2-2.12.1.tgz#5a5e234484814e558da5fd0505bcd65e60b9c7c3"
   dependencies:
-    "@miniflare/shared" "2.11.0"
-    undici "5.9.1"
+    "@miniflare/shared" "2.12.1"
+    undici "5.20.0"
 
-"@miniflare/runner-vm@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/runner-vm/-/runner-vm-2.11.0.tgz"
+"@miniflare/runner-vm@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/runner-vm/-/runner-vm-2.12.1.tgz#b7c3dd7a5be749eda0945f751e688f98ed897ffb"
   dependencies:
-    "@miniflare/shared" "2.11.0"
+    "@miniflare/shared" "2.12.1"
 
-"@miniflare/scheduler@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/scheduler/-/scheduler-2.11.0.tgz"
+"@miniflare/scheduler@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/scheduler/-/scheduler-2.12.1.tgz#89f2fddb9edc398736ff2286803cc0b0ae39dedb"
   dependencies:
-    "@miniflare/core" "2.11.0"
-    "@miniflare/shared" "2.11.0"
+    "@miniflare/core" "2.12.1"
+    "@miniflare/shared" "2.12.1"
     cron-schedule "^3.0.4"
 
-"@miniflare/shared@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/shared/-/shared-2.11.0.tgz"
+"@miniflare/shared@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/shared/-/shared-2.12.1.tgz#11f6c40bdc289662c4ac40feb1aba226c6fb45d4"
   dependencies:
     "@types/better-sqlite3" "^7.6.0"
     kleur "^4.1.4"
-    npx-import "^1.1.3"
+    npx-import "^1.1.4"
     picomatch "^2.3.1"
 
-"@miniflare/sites@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/sites/-/sites-2.11.0.tgz"
+"@miniflare/sites@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/sites/-/sites-2.12.1.tgz#762252979f314fa8b6655e1fe92a1c259ece919b"
   dependencies:
-    "@miniflare/kv" "2.11.0"
-    "@miniflare/shared" "2.11.0"
-    "@miniflare/storage-file" "2.11.0"
+    "@miniflare/kv" "2.12.1"
+    "@miniflare/shared" "2.12.1"
+    "@miniflare/storage-file" "2.12.1"
 
-"@miniflare/storage-file@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/storage-file/-/storage-file-2.11.0.tgz"
+"@miniflare/storage-file@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/storage-file/-/storage-file-2.12.1.tgz#7784654085fea0e06938ba2654491a256da2b0d8"
   dependencies:
-    "@miniflare/shared" "2.11.0"
-    "@miniflare/storage-memory" "2.11.0"
+    "@miniflare/shared" "2.12.1"
+    "@miniflare/storage-memory" "2.12.1"
 
-"@miniflare/storage-memory@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/storage-memory/-/storage-memory-2.11.0.tgz"
+"@miniflare/storage-memory@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/storage-memory/-/storage-memory-2.12.1.tgz#1d24b010010d3035d454947a49752f1c3df579df"
   dependencies:
-    "@miniflare/shared" "2.11.0"
+    "@miniflare/shared" "2.12.1"
 
-"@miniflare/watcher@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/watcher/-/watcher-2.11.0.tgz"
+"@miniflare/watcher@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/watcher/-/watcher-2.12.1.tgz#703f9fdd6b9d4c1e0b4f35a4039784f1425b7885"
   dependencies:
-    "@miniflare/shared" "2.11.0"
+    "@miniflare/shared" "2.12.1"
 
-"@miniflare/web-sockets@2.11.0":
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/@miniflare/web-sockets/-/web-sockets-2.11.0.tgz"
+"@miniflare/web-sockets@2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@miniflare/web-sockets/-/web-sockets-2.12.1.tgz#c90f89e21e5d0b6d819874008933d47fe60f5704"
   dependencies:
-    "@miniflare/core" "2.11.0"
-    "@miniflare/shared" "2.11.0"
-    undici "5.9.1"
+    "@miniflare/core" "2.12.1"
+    "@miniflare/shared" "2.12.1"
+    undici "5.20.0"
     ws "^8.2.2"
 
 "@motionone/animation@^10.10.1":
@@ -2185,7 +2273,7 @@ chardet@^0.7.0:
   version "0.7.0"
   resolved "https://registry.npmjs.org/chardet/-/chardet-0.7.0.tgz"
 
-chokidar@^3.5.1:
+chokidar@^3.5.1, chokidar@^3.5.3:
   version "3.5.3"
   resolved "https://registry.npmjs.org/chokidar/-/chokidar-3.5.3.tgz"
   dependencies:
@@ -2653,161 +2741,81 @@ es-to-primitive@^1.2.1:
     is-date-object "^1.0.1"
     is-symbol "^1.0.2"
 
-esbuild-android-64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-android-64/-/esbuild-android-64-0.14.34.tgz#46bc4327dd0809937912346244eaffdb9bfc980d"
-
 esbuild-android-arm64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-android-arm64/-/esbuild-android-arm64-0.14.22.tgz#fb051169a63307d958aec85ad596cfc7d7770303"
-
-esbuild-android-arm64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-android-arm64/-/esbuild-android-arm64-0.14.34.tgz#a3f7e1ad84b8a7dcb39b5e132768b56ee7133656"
 
 esbuild-darwin-64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-darwin-64/-/esbuild-darwin-64-0.14.22.tgz#615ea0a9de67b57a293a7128d7ac83ee307a856d"
 
-esbuild-darwin-64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-darwin-64/-/esbuild-darwin-64-0.14.34.tgz#a0e4ab7a0cddf76761f1fb5d6bf552a376beb16e"
-
 esbuild-darwin-arm64@0.14.22:
   version "0.14.22"
   resolved "https://registry.npmjs.org/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.14.22.tgz"
-
-esbuild-darwin-arm64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.npmjs.org/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.14.34.tgz"
 
 esbuild-freebsd-64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-freebsd-64/-/esbuild-freebsd-64-0.14.22.tgz#778a818c5b078d5cdd6bb6c0e0797217d196999b"
 
-esbuild-freebsd-64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-freebsd-64/-/esbuild-freebsd-64-0.14.34.tgz#aebb50248f5874d04ffeab2db8ee1ed6037e2654"
-
 esbuild-freebsd-arm64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-freebsd-arm64/-/esbuild-freebsd-arm64-0.14.22.tgz#18da93b9f3db2e036f72383bfe73b28b73bb332c"
-
-esbuild-freebsd-arm64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-freebsd-arm64/-/esbuild-freebsd-arm64-0.14.34.tgz#09bef288e29f18b38b0c70a9827b6ee718e36c7f"
 
 esbuild-linux-32@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-linux-32/-/esbuild-linux-32-0.14.22.tgz#d0d5d9f5bb3536e17ac097e9512019c65b7c0234"
 
-esbuild-linux-32@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-32/-/esbuild-linux-32-0.14.34.tgz#67790061758e008e919e65bbc34549f55dadaca7"
-
 esbuild-linux-64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-linux-64/-/esbuild-linux-64-0.14.22.tgz#2773d540971999ea7f38107ef92fca753f6a8c30"
-
-esbuild-linux-64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-64/-/esbuild-linux-64-0.14.34.tgz#b9b19d4ac07e37495dd2508ec843418aa71c98d6"
 
 esbuild-linux-arm64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-linux-arm64/-/esbuild-linux-arm64-0.14.22.tgz#5d4480ce6d6bffab1dd76a23158f5a5ab33e7ba4"
 
-esbuild-linux-arm64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-arm64/-/esbuild-linux-arm64-0.14.34.tgz#fd84b11a6ccfe9e83e00d0c45890e9fb3a7248c1"
-
 esbuild-linux-arm@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-linux-arm/-/esbuild-linux-arm-0.14.22.tgz#c6391b3f7c8fa6d3b99a7e893ce0f45f3a921eef"
-
-esbuild-linux-arm@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-arm/-/esbuild-linux-arm-0.14.34.tgz#c89d4714b05265a315a97c8933508cc73950e683"
 
 esbuild-linux-mips64le@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-linux-mips64le/-/esbuild-linux-mips64le-0.14.22.tgz#2c8dabac355c502e86c38f9f292b3517d8e181f3"
 
-esbuild-linux-mips64le@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-mips64le/-/esbuild-linux-mips64le-0.14.34.tgz#d60752c3fb1260dd0737532af2de2a9521656456"
-
 esbuild-linux-ppc64le@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-linux-ppc64le/-/esbuild-linux-ppc64le-0.14.22.tgz#69d71b2820d5c94306072dac6094bae38e77d1c0"
-
-esbuild-linux-ppc64le@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-ppc64le/-/esbuild-linux-ppc64le-0.14.34.tgz#f4c6229269956564f0c6f9825f5e717c2cfc22b3"
 
 esbuild-linux-riscv64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-linux-riscv64/-/esbuild-linux-riscv64-0.14.22.tgz#c0ec0fc3a23624deebf657781550d2329cec4213"
 
-esbuild-linux-riscv64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-riscv64/-/esbuild-linux-riscv64-0.14.34.tgz#549bd18a9eba3135b67f7b742730b5343a1be35d"
-
 esbuild-linux-s390x@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-linux-s390x/-/esbuild-linux-s390x-0.14.22.tgz#ec2af4572d63336cfb27f5a5c851fb1b6617dd91"
-
-esbuild-linux-s390x@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-s390x/-/esbuild-linux-s390x-0.14.34.tgz#2a6b577c437f94c2b37623c755ff5215a05c12bc"
 
 esbuild-netbsd-64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-netbsd-64/-/esbuild-netbsd-64-0.14.22.tgz#0e283278e9fdbaa7f0930f93ee113d7759cd865e"
 
-esbuild-netbsd-64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-netbsd-64/-/esbuild-netbsd-64-0.14.34.tgz#7f0b73229157975eb35597207723df52ba21722a"
-
 esbuild-openbsd-64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-openbsd-64/-/esbuild-openbsd-64-0.14.22.tgz#2a73bba04e16d8ef278fbe2be85248e12a2f2cc2"
-
-esbuild-openbsd-64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-openbsd-64/-/esbuild-openbsd-64-0.14.34.tgz#b9bc44b4f70031fb01b173b279daeffc4d4f54b7"
 
 esbuild-sunos-64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-sunos-64/-/esbuild-sunos-64-0.14.22.tgz#8fe03513b8b2e682a6d79d5e3ca5849651a3c1d8"
 
-esbuild-sunos-64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-sunos-64/-/esbuild-sunos-64-0.14.34.tgz#512dd6085ac1a0dccc20c5f932f16a618bea409c"
-
 esbuild-windows-32@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-windows-32/-/esbuild-windows-32-0.14.22.tgz#a75df61e3e49df292a1842be8e877a3153ee644f"
-
-esbuild-windows-32@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-windows-32/-/esbuild-windows-32-0.14.34.tgz#3ff1afd5cac08050c7c7140a59e343b06f6b037c"
 
 esbuild-windows-64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-windows-64/-/esbuild-windows-64-0.14.22.tgz#d06cf8bbe4945b8bf95a730d871e54a22f635941"
 
-esbuild-windows-64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-windows-64/-/esbuild-windows-64-0.14.34.tgz#66f7b43d2a0b132f6748dfa3edac4fc939a99be0"
-
 esbuild-windows-arm64@0.14.22:
   version "0.14.22"
   resolved "https://registry.yarnpkg.com/esbuild-windows-arm64/-/esbuild-windows-arm64-0.14.22.tgz#f8b1b05c548073be8413a5ecb12d7c2f6e717227"
-
-esbuild-windows-arm64@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.yarnpkg.com/esbuild-windows-arm64/-/esbuild-windows-arm64-0.14.34.tgz#b74a6395b7b7e53dba70b71b39542afd83352473"
 
 esbuild@0.14.22:
   version "0.14.22"
@@ -2833,30 +2841,32 @@ esbuild@0.14.22:
     esbuild-windows-64 "0.14.22"
     esbuild-windows-arm64 "0.14.22"
 
-esbuild@0.14.34:
-  version "0.14.34"
-  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.14.34.tgz"
+esbuild@0.16.3:
+  version "0.16.3"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.16.3.tgz#5868632fa23f7a8547f2a4ea359c44e946515c94"
   optionalDependencies:
-    esbuild-android-64 "0.14.34"
-    esbuild-android-arm64 "0.14.34"
-    esbuild-darwin-64 "0.14.34"
-    esbuild-darwin-arm64 "0.14.34"
-    esbuild-freebsd-64 "0.14.34"
-    esbuild-freebsd-arm64 "0.14.34"
-    esbuild-linux-32 "0.14.34"
-    esbuild-linux-64 "0.14.34"
-    esbuild-linux-arm "0.14.34"
-    esbuild-linux-arm64 "0.14.34"
-    esbuild-linux-mips64le "0.14.34"
-    esbuild-linux-ppc64le "0.14.34"
-    esbuild-linux-riscv64 "0.14.34"
-    esbuild-linux-s390x "0.14.34"
-    esbuild-netbsd-64 "0.14.34"
-    esbuild-openbsd-64 "0.14.34"
-    esbuild-sunos-64 "0.14.34"
-    esbuild-windows-32 "0.14.34"
-    esbuild-windows-64 "0.14.34"
-    esbuild-windows-arm64 "0.14.34"
+    "@esbuild/android-arm" "0.16.3"
+    "@esbuild/android-arm64" "0.16.3"
+    "@esbuild/android-x64" "0.16.3"
+    "@esbuild/darwin-arm64" "0.16.3"
+    "@esbuild/darwin-x64" "0.16.3"
+    "@esbuild/freebsd-arm64" "0.16.3"
+    "@esbuild/freebsd-x64" "0.16.3"
+    "@esbuild/linux-arm" "0.16.3"
+    "@esbuild/linux-arm64" "0.16.3"
+    "@esbuild/linux-ia32" "0.16.3"
+    "@esbuild/linux-loong64" "0.16.3"
+    "@esbuild/linux-mips64el" "0.16.3"
+    "@esbuild/linux-ppc64" "0.16.3"
+    "@esbuild/linux-riscv64" "0.16.3"
+    "@esbuild/linux-s390x" "0.16.3"
+    "@esbuild/linux-x64" "0.16.3"
+    "@esbuild/netbsd-x64" "0.16.3"
+    "@esbuild/openbsd-x64" "0.16.3"
+    "@esbuild/sunos-x64" "0.16.3"
+    "@esbuild/win32-arm64" "0.16.3"
+    "@esbuild/win32-ia32" "0.16.3"
+    "@esbuild/win32-x64" "0.16.3"
 
 escalade@^3.1.1:
   version "3.1.1"
@@ -4854,31 +4864,31 @@ min-indent@^1.0.0:
   version "1.0.1"
   resolved "https://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz"
 
-miniflare@^2.5.0:
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/miniflare/-/miniflare-2.11.0.tgz"
+miniflare@2.12.1:
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/miniflare/-/miniflare-2.12.1.tgz#9f4927346b651a4b0883656a57257cb33b74bfba"
   dependencies:
-    "@miniflare/cache" "2.11.0"
-    "@miniflare/cli-parser" "2.11.0"
-    "@miniflare/core" "2.11.0"
-    "@miniflare/d1" "2.11.0"
-    "@miniflare/durable-objects" "2.11.0"
-    "@miniflare/html-rewriter" "2.11.0"
-    "@miniflare/http-server" "2.11.0"
-    "@miniflare/kv" "2.11.0"
-    "@miniflare/queues" "2.11.0"
-    "@miniflare/r2" "2.11.0"
-    "@miniflare/runner-vm" "2.11.0"
-    "@miniflare/scheduler" "2.11.0"
-    "@miniflare/shared" "2.11.0"
-    "@miniflare/sites" "2.11.0"
-    "@miniflare/storage-file" "2.11.0"
-    "@miniflare/storage-memory" "2.11.0"
-    "@miniflare/web-sockets" "2.11.0"
+    "@miniflare/cache" "2.12.1"
+    "@miniflare/cli-parser" "2.12.1"
+    "@miniflare/core" "2.12.1"
+    "@miniflare/d1" "2.12.1"
+    "@miniflare/durable-objects" "2.12.1"
+    "@miniflare/html-rewriter" "2.12.1"
+    "@miniflare/http-server" "2.12.1"
+    "@miniflare/kv" "2.12.1"
+    "@miniflare/queues" "2.12.1"
+    "@miniflare/r2" "2.12.1"
+    "@miniflare/runner-vm" "2.12.1"
+    "@miniflare/scheduler" "2.12.1"
+    "@miniflare/shared" "2.12.1"
+    "@miniflare/sites" "2.12.1"
+    "@miniflare/storage-file" "2.12.1"
+    "@miniflare/storage-memory" "2.12.1"
+    "@miniflare/web-sockets" "2.12.1"
     kleur "^4.1.4"
     semiver "^1.1.0"
     source-map-support "^0.5.20"
-    undici "5.9.1"
+    undici "5.20.0"
 
 minimatch@^3.0.2, minimatch@^3.0.4, minimatch@^3.1.1, minimatch@^3.1.2:
   version "3.1.2"
@@ -5082,9 +5092,9 @@ npm-run-path@^5.1.0:
   dependencies:
     path-key "^4.0.0"
 
-npx-import@^1.1.3:
+npx-import@^1.1.4:
   version "1.1.4"
-  resolved "https://registry.npmjs.org/npx-import/-/npx-import-1.1.4.tgz"
+  resolved "https://registry.yarnpkg.com/npx-import/-/npx-import-1.1.4.tgz#0ee9a27484c633255528f7ec2e4c2adeaa1fcda3"
   dependencies:
     execa "^6.1.0"
     parse-package-name "^1.0.0"
@@ -6086,7 +6096,7 @@ source-map@^0.6.0, source-map@~0.6.1:
   version "0.6.1"
   resolved "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz"
 
-source-map@^0.7.0, source-map@^0.7.3:
+source-map@^0.7.0, source-map@^0.7.3, source-map@^0.7.4:
   version "0.7.4"
   resolved "https://registry.npmjs.org/source-map/-/source-map-0.7.4.tgz"
 
@@ -6481,9 +6491,11 @@ unbox-primitive@^1.0.2:
     has-symbols "^1.0.3"
     which-boxed-primitive "^1.0.2"
 
-undici@5.9.1:
-  version "5.9.1"
-  resolved "https://registry.npmjs.org/undici/-/undici-5.9.1.tgz"
+undici@5.20.0:
+  version "5.20.0"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-5.20.0.tgz#6327462f5ce1d3646bcdac99da7317f455bcc263"
+  dependencies:
+    busboy "^1.6.0"
 
 unified@^10.0.0:
   version "10.1.2"
@@ -6737,20 +6749,24 @@ word-wrap@^1.2.3:
   version "1.2.3"
   resolved "https://registry.npmjs.org/word-wrap/-/word-wrap-1.2.3.tgz"
 
-wrangler@2.0.14:
-  version "2.0.14"
-  resolved "https://registry.npmjs.org/wrangler/-/wrangler-2.0.14.tgz"
+wrangler@2.12.0:
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/wrangler/-/wrangler-2.12.0.tgz#b86d450a5fa6a345af96ce3d39244d0619845c9b"
   dependencies:
     "@cloudflare/kv-asset-handler" "^0.2.0"
     "@esbuild-plugins/node-globals-polyfill" "^0.1.1"
     "@esbuild-plugins/node-modules-polyfill" "^0.1.4"
+    "@miniflare/core" "2.12.1"
+    "@miniflare/d1" "2.12.1"
+    "@miniflare/durable-objects" "2.12.1"
     blake3-wasm "^2.1.5"
-    esbuild "0.14.34"
-    miniflare "^2.5.0"
+    chokidar "^3.5.3"
+    esbuild "0.16.3"
+    miniflare "2.12.1"
     nanoid "^3.3.3"
     path-to-regexp "^6.2.0"
     selfsigned "^2.0.1"
-    semiver "^1.1.0"
+    source-map "^0.7.4"
     xxhash-wasm "^1.0.1"
   optionalDependencies:
     fsevents "~2.3.2"
