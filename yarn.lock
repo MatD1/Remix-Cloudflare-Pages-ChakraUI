@@ -1213,30 +1213,30 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@miniflare/cache@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/cache/-/cache-2.12.1.tgz#dbbd0e93282bc32df917161130178262ec7350b3"
+"@miniflare/cache@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/cache/-/cache-2.13.0.tgz#896424c1c6c3cdba2ec8641b68d7424cfa556dca"
   dependencies:
-    "@miniflare/core" "2.12.1"
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/core" "2.13.0"
+    "@miniflare/shared" "2.13.0"
     http-cache-semantics "^4.1.0"
     undici "5.20.0"
 
-"@miniflare/cli-parser@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/cli-parser/-/cli-parser-2.12.1.tgz#c73d027ca01822511003b7e2b3caabe14282411c"
+"@miniflare/cli-parser@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/cli-parser/-/cli-parser-2.13.0.tgz#999c34b8d92f1cf0a85bc567cc9d7c2fdbdfd420"
   dependencies:
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/shared" "2.13.0"
     kleur "^4.1.4"
 
-"@miniflare/core@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/core/-/core-2.12.1.tgz#8fecd897c1e5b32af6a7a288bfbf407b233ebb61"
+"@miniflare/core@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/core/-/core-2.13.0.tgz#abde9ac31046e18f772193b192e49796c2853152"
   dependencies:
     "@iarna/toml" "^2.2.5"
-    "@miniflare/queues" "2.12.1"
-    "@miniflare/shared" "2.12.1"
-    "@miniflare/watcher" "2.12.1"
+    "@miniflare/queues" "2.13.0"
+    "@miniflare/shared" "2.13.0"
+    "@miniflare/watcher" "2.13.0"
     busboy "^1.6.0"
     dotenv "^10.0.0"
     kleur "^4.1.4"
@@ -1244,119 +1244,119 @@
     undici "5.20.0"
     urlpattern-polyfill "^4.0.3"
 
-"@miniflare/d1@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/d1/-/d1-2.12.1.tgz#2a65b540d4b2834ddc6b0603425627841803081d"
+"@miniflare/d1@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/d1/-/d1-2.13.0.tgz#550cb2fb7ed89f29d267e27f5636a5e98cdc8050"
   dependencies:
-    "@miniflare/core" "2.12.1"
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/core" "2.13.0"
+    "@miniflare/shared" "2.13.0"
 
-"@miniflare/durable-objects@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/durable-objects/-/durable-objects-2.12.1.tgz#8aa6416593db23dec0c493b2a3a6c81711163034"
+"@miniflare/durable-objects@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/durable-objects/-/durable-objects-2.13.0.tgz#e285818f23702b127f717f9f319cbcadfbfe9a77"
   dependencies:
-    "@miniflare/core" "2.12.1"
-    "@miniflare/shared" "2.12.1"
-    "@miniflare/storage-memory" "2.12.1"
+    "@miniflare/core" "2.13.0"
+    "@miniflare/shared" "2.13.0"
+    "@miniflare/storage-memory" "2.13.0"
     undici "5.20.0"
 
-"@miniflare/html-rewriter@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/html-rewriter/-/html-rewriter-2.12.1.tgz#dff885c14c590c6e0b8a438054de1ab2f05daa85"
+"@miniflare/html-rewriter@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/html-rewriter/-/html-rewriter-2.13.0.tgz#ec0f2e2de57a15b14990b1ce57497ebbd754fe07"
   dependencies:
-    "@miniflare/core" "2.12.1"
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/core" "2.13.0"
+    "@miniflare/shared" "2.13.0"
     html-rewriter-wasm "^0.4.1"
     undici "5.20.0"
 
-"@miniflare/http-server@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/http-server/-/http-server-2.12.1.tgz#88bd62798d01459771d1b595cdc20811c3df00dc"
+"@miniflare/http-server@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/http-server/-/http-server-2.13.0.tgz#6a178b073ea782065ac9c79d70cb82e3fb921ce2"
   dependencies:
-    "@miniflare/core" "2.12.1"
-    "@miniflare/shared" "2.12.1"
-    "@miniflare/web-sockets" "2.12.1"
+    "@miniflare/core" "2.13.0"
+    "@miniflare/shared" "2.13.0"
+    "@miniflare/web-sockets" "2.13.0"
     kleur "^4.1.4"
     selfsigned "^2.0.0"
     undici "5.20.0"
     ws "^8.2.2"
     youch "^2.2.2"
 
-"@miniflare/kv@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/kv/-/kv-2.12.1.tgz#51e28ac5e478323bc482bf3d20e33de37b061f07"
+"@miniflare/kv@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/kv/-/kv-2.13.0.tgz#a9de0d519b4345c6845584e2fab84ca2f2186c8e"
   dependencies:
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/shared" "2.13.0"
 
-"@miniflare/queues@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/queues/-/queues-2.12.1.tgz#b78ef4e4e1db6d3f4c1069f9de08ad1d2d90c713"
+"@miniflare/queues@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/queues/-/queues-2.13.0.tgz#1ea14af23dc8647116fe53d1bc5b8dd6ce844301"
   dependencies:
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/shared" "2.13.0"
 
-"@miniflare/r2@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/r2/-/r2-2.12.1.tgz#5a5e234484814e558da5fd0505bcd65e60b9c7c3"
+"@miniflare/r2@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/r2/-/r2-2.13.0.tgz#0728f536ed152c3444e5ef16d399dda042725907"
   dependencies:
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/shared" "2.13.0"
     undici "5.20.0"
 
-"@miniflare/runner-vm@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/runner-vm/-/runner-vm-2.12.1.tgz#b7c3dd7a5be749eda0945f751e688f98ed897ffb"
+"@miniflare/runner-vm@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/runner-vm/-/runner-vm-2.13.0.tgz#66668fee0a7bd247eef3e93950358701e455f8e4"
   dependencies:
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/shared" "2.13.0"
 
-"@miniflare/scheduler@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/scheduler/-/scheduler-2.12.1.tgz#89f2fddb9edc398736ff2286803cc0b0ae39dedb"
+"@miniflare/scheduler@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/scheduler/-/scheduler-2.13.0.tgz#1f4a011088d74eb9bc382462ccd7afee9d01169a"
   dependencies:
-    "@miniflare/core" "2.12.1"
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/core" "2.13.0"
+    "@miniflare/shared" "2.13.0"
     cron-schedule "^3.0.4"
 
-"@miniflare/shared@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/shared/-/shared-2.12.1.tgz#11f6c40bdc289662c4ac40feb1aba226c6fb45d4"
+"@miniflare/shared@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/shared/-/shared-2.13.0.tgz#40e13d1a76f13d05e985fb929dfcc81a148e6276"
   dependencies:
     "@types/better-sqlite3" "^7.6.0"
     kleur "^4.1.4"
     npx-import "^1.1.4"
     picomatch "^2.3.1"
 
-"@miniflare/sites@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/sites/-/sites-2.12.1.tgz#762252979f314fa8b6655e1fe92a1c259ece919b"
+"@miniflare/sites@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/sites/-/sites-2.13.0.tgz#640fd81e96b299e2178441ff2ad785f845f7b6f7"
   dependencies:
-    "@miniflare/kv" "2.12.1"
-    "@miniflare/shared" "2.12.1"
-    "@miniflare/storage-file" "2.12.1"
+    "@miniflare/kv" "2.13.0"
+    "@miniflare/shared" "2.13.0"
+    "@miniflare/storage-file" "2.13.0"
 
-"@miniflare/storage-file@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/storage-file/-/storage-file-2.12.1.tgz#7784654085fea0e06938ba2654491a256da2b0d8"
+"@miniflare/storage-file@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/storage-file/-/storage-file-2.13.0.tgz#d317eb6688b8a1dea2ab952d99ef44eba42e64a3"
   dependencies:
-    "@miniflare/shared" "2.12.1"
-    "@miniflare/storage-memory" "2.12.1"
+    "@miniflare/shared" "2.13.0"
+    "@miniflare/storage-memory" "2.13.0"
 
-"@miniflare/storage-memory@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/storage-memory/-/storage-memory-2.12.1.tgz#1d24b010010d3035d454947a49752f1c3df579df"
+"@miniflare/storage-memory@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/storage-memory/-/storage-memory-2.13.0.tgz#b6317392abd2da1f019d1530491d86658631ca37"
   dependencies:
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/shared" "2.13.0"
 
-"@miniflare/watcher@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/watcher/-/watcher-2.12.1.tgz#703f9fdd6b9d4c1e0b4f35a4039784f1425b7885"
+"@miniflare/watcher@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/watcher/-/watcher-2.13.0.tgz#d1acc14414d845844df767cd889735f640e39eb4"
   dependencies:
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/shared" "2.13.0"
 
-"@miniflare/web-sockets@2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@miniflare/web-sockets/-/web-sockets-2.12.1.tgz#c90f89e21e5d0b6d819874008933d47fe60f5704"
+"@miniflare/web-sockets@2.13.0":
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/@miniflare/web-sockets/-/web-sockets-2.13.0.tgz#6023e1eb9f494d037aa4f889ad11283ae4d5c458"
   dependencies:
-    "@miniflare/core" "2.12.1"
-    "@miniflare/shared" "2.12.1"
+    "@miniflare/core" "2.13.0"
+    "@miniflare/shared" "2.13.0"
     undici "5.20.0"
     ws "^8.2.2"
 
@@ -4811,27 +4811,27 @@ min-indent@^1.0.0:
   version "1.0.1"
   resolved "https://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz"
 
-miniflare@2.12.1:
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/miniflare/-/miniflare-2.12.1.tgz#9f4927346b651a4b0883656a57257cb33b74bfba"
+miniflare@2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/miniflare/-/miniflare-2.13.0.tgz#b5e357952378ef58b612bd4cfde0b32452928ef2"
   dependencies:
-    "@miniflare/cache" "2.12.1"
-    "@miniflare/cli-parser" "2.12.1"
-    "@miniflare/core" "2.12.1"
-    "@miniflare/d1" "2.12.1"
-    "@miniflare/durable-objects" "2.12.1"
-    "@miniflare/html-rewriter" "2.12.1"
-    "@miniflare/http-server" "2.12.1"
-    "@miniflare/kv" "2.12.1"
-    "@miniflare/queues" "2.12.1"
-    "@miniflare/r2" "2.12.1"
-    "@miniflare/runner-vm" "2.12.1"
-    "@miniflare/scheduler" "2.12.1"
-    "@miniflare/shared" "2.12.1"
-    "@miniflare/sites" "2.12.1"
-    "@miniflare/storage-file" "2.12.1"
-    "@miniflare/storage-memory" "2.12.1"
-    "@miniflare/web-sockets" "2.12.1"
+    "@miniflare/cache" "2.13.0"
+    "@miniflare/cli-parser" "2.13.0"
+    "@miniflare/core" "2.13.0"
+    "@miniflare/d1" "2.13.0"
+    "@miniflare/durable-objects" "2.13.0"
+    "@miniflare/html-rewriter" "2.13.0"
+    "@miniflare/http-server" "2.13.0"
+    "@miniflare/kv" "2.13.0"
+    "@miniflare/queues" "2.13.0"
+    "@miniflare/r2" "2.13.0"
+    "@miniflare/runner-vm" "2.13.0"
+    "@miniflare/scheduler" "2.13.0"
+    "@miniflare/shared" "2.13.0"
+    "@miniflare/sites" "2.13.0"
+    "@miniflare/storage-file" "2.13.0"
+    "@miniflare/storage-memory" "2.13.0"
+    "@miniflare/web-sockets" "2.13.0"
     kleur "^4.1.4"
     semiver "^1.1.0"
     source-map-support "^0.5.20"
@@ -6684,20 +6684,20 @@ word-wrap@^1.2.3:
   version "1.2.3"
   resolved "https://registry.npmjs.org/word-wrap/-/word-wrap-1.2.3.tgz"
 
-wrangler@2.12.0:
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/wrangler/-/wrangler-2.12.0.tgz#b86d450a5fa6a345af96ce3d39244d0619845c9b"
+wrangler@2.20.2:
+  version "2.20.2"
+  resolved "https://registry.yarnpkg.com/wrangler/-/wrangler-2.20.2.tgz#9249a73fa3c2a419c76852e3f9265d641e17dbb0"
   dependencies:
     "@cloudflare/kv-asset-handler" "^0.2.0"
     "@esbuild-plugins/node-globals-polyfill" "^0.1.1"
     "@esbuild-plugins/node-modules-polyfill" "^0.1.4"
-    "@miniflare/core" "2.12.1"
-    "@miniflare/d1" "2.12.1"
-    "@miniflare/durable-objects" "2.12.1"
+    "@miniflare/core" "2.13.0"
+    "@miniflare/d1" "2.13.0"
+    "@miniflare/durable-objects" "2.13.0"
     blake3-wasm "^2.1.5"
     chokidar "^3.5.3"
     esbuild "0.16.3"
-    miniflare "2.12.1"
+    miniflare "2.13.0"
     nanoid "^3.3.3"
     path-to-regexp "^6.2.0"
     selfsigned "^2.0.1"
